@@ -1,0 +1,27 @@
+[
+  {
+    "userId": "1234",
+    "streams": [
+      {
+        "streamId": "2244"
+      },
+      {
+        "streamId": "4422"
+      }
+    ]
+  },
+  {
+    "userId": "5678",
+    "streams": [
+      {
+        "streamId": "2244"
+      },
+      {
+        "streamId": "4422"
+      },
+      {
+        "streamId": "3456"
+      }
+    ]
+  }
+]
