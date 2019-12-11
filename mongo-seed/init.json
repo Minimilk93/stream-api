@@ -23,5 +23,17 @@
         "streamId": "3456"
       }
     ]
+  },
+  {
+    "userId": "1111",
+    "streams": [
+      {
+        "streamId": "2244"
+      }
+    ]
+  },
+  {
+    "userId": "2222",
+    "streams": []
   }
 ]
